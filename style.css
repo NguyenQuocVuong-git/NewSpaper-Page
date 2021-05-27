@@ -1,0 +1,114 @@
+
+.category {
+  position: relative;
+  margin-bottom: 10px;
+  padding-left: 10px !important;
+  padding-right: 0px !important;
+}
+
+.cover {
+    background-image: url(./img/business-min.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    cursor: pointer;
+    position: relative;
+
+}
+
+.cover-detal-2{
+    background-image: url(./img/inspirational-min.jpeg) !important;
+}
+.cover-detal-3{
+    background-image: url(./img/laptop-min.jpeg) !important;
+}
+.cover-detal-4{
+    background-image: url(./img/universe-min.jpeg) !important;
+}
+
+.cover-detal-4{
+    background-image: url(./img/universe-min.jpeg) !important;
+}
+.cover-detal-5{
+    background-image: url(./img/sport-min.jpeg) !important;
+}
+.cover-detal-6{
+    background-image: url(./img/game-min.jpeg) !important;
+}
+.cover-detal-7{
+    background-image: url(./img/english-min.jpeg) !important;
+}
+.cover-detal-8{
+    background-image: url(./img/otakulture.jpeg) !important;
+}
+.cover-detal-9{
+    background-image: url(./img/composition.jpeg) !important;
+}
+.cover-detal-10{
+    background-image: url(./img/comics-min.jpeg) !important;
+}
+.cover-detal-11{
+    background-image: url(./img/film-min.jpeg) !important;
+}
+.cover-detal-12{
+    background-image: url(./img/entertainment-min.jpeg) !important;
+}
+.cover-detal-13{
+    background-image: url(./img/work-min.jpeg) !important;
+}
+.cover-detal-14{
+    background-image: url(./img/books-min.jpeg) !important;
+}
+.cover-detal-15{
+    background-image: url(./img/music.jpeg) !important;
+}
+.cover-detal-16{
+    background-image: url(./img/english-min.jpeg) !important;
+}
+.cover-detal-17{
+    background-image: url(./img/conversation-min.jpeg) !important;
+}
+
+.customBtn {
+    position:absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 50px;
+    background-color: #fff;
+    border-color: #333;
+}
+
+.meta {
+    position:absolute;
+    bottom: 0px;
+    left: 0px;
+    
+    min-width: 100%;
+}
+.meta ::before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: -5px;
+    background: rgba(0,0,0,0.5);
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+    width: 100%;
+    z-index: -1;
+}
+
+.name {
+   
+}
+
+.nd {
+    color: #FFF;
+    font-size: 26px;
+    line-height: 32px;
+    position: relative;
+    padding:  7px 15px;
+    overflow: hidden;
+    z-index: 100;
+}
