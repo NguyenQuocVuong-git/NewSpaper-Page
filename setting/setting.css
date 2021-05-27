@@ -1,0 +1,12 @@
+#photo-header {
+    background-color: #00000080 ;
+}
+
+.photo-header-detail {
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.icon {
+    font-size: 30px;
+}
